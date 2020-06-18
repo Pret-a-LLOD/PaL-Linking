@@ -7,3 +7,6 @@
 [submodule "apertium-lexinfo-mapping"]
 	path = apertium-lexinfo-mapping
 	url = https://github.com/sid-unizar/apertium-lexinfo-mapping
+[submodule "naisc"]
+	path = naisc
+	url = https://github.com/insight-centre/naisc
