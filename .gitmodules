@@ -1,6 +1,9 @@
 [submodule "otic"]
 	path = otic
 	url = https://gitlab.com/sid_unizar/otic
+[submodule "CIDER-EM"]
+	path = CIDER-EM
+	url = https://gitlab.com/sid_unizar/cider-em.git
 [submodule "apertium-lexinfo-mapping"]
 	path = apertium-lexinfo-mapping
 	url = https://github.com/sid-unizar/apertium-lexinfo-mapping
