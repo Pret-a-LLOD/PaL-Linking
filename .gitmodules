@@ -10,3 +10,6 @@
 [submodule "naisc"]
 	path = naisc
 	url = https://github.com/insight-centre/naisc
+[submodule "ontology-lexicalization"]
+	path = naisc
+	url = https://github.com/Pret-a-LLOD/ontology-lexicalization
