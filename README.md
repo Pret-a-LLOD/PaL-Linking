@@ -1,7 +1,7 @@
 # PaL-Linking
-**DEPRECATED** (left as an archived repository for reference). Now the Prêt-à-LLOD linking framework is a collection of Teanga-compatible docker containers and can be found at https://hub.docker.com/u/pretallod, where prefix 'lex' indicates lexicalisation methods and prefix 'link' indicates conceptual and lexical linking methods.
+**DEPRECATED** (left as an archived repository for reference, to be deleted in a near future). Now the Prêt-à-LLOD linking framework is a collection of Teanga-compatible docker containers and can be found at https://hub.docker.com/u/pretallod, where prefix 'lex' indicates lexicalisation methods and prefix 'link' indicates conceptual and lexical linking methods.
 
-Prevously:
+Previously:
 
 Collection of components (submodules) that constitute the Prêt-à-LLOD linking framework
 * OTIC (https://gitlab.com/sid_unizar/otic), the "One Time Inverse Consultation" algorithm, as computed for the TIAD baseline.
