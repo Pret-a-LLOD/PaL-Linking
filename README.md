@@ -1,5 +1,5 @@
 # PaL-Linking
-DEPRECATED (left here for reference). Now the Prêt-à-LLOD linking framework is a collection of Teanga-compatible docker containers and can be found at https://hub.docker.com/u/pretallod. Prefix 'lex' indicates lexicalisation methods and prefix 'link' indicates conceptual and lexical linking methods.
+**DEPRECATED** (left as an archived repository for reference). Now the Prêt-à-LLOD linking framework is a collection of Teanga-compatible docker containers and can be found at https://hub.docker.com/u/pretallod, where prefix 'lex' indicates lexicalisation methods and prefix 'link' indicates conceptual and lexical linking methods.
 
 Prevously:
 
